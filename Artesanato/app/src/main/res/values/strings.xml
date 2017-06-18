@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HandmadeXperience</string>
+    <string name="app_name">Handmade Xperience</string>
+    <string name="app_hello_world">Bem vindo ao Handmade Xperience</string>
 </resources>
